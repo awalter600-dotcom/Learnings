@@ -7,9 +7,9 @@ Wanted to learn by doing.
 
 ## Principles
 
-real problem
-real product
-real human
+- real problem
+- real product
+- real human
 
 ## What Progress Looks Like
 
