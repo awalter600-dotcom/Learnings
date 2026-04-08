@@ -1,6 +1,15 @@
 # Learnings
 Learnings documentation
 
+## Approach
+
+
+## Principles
+
+real problem
+real product
+real human
+
 ## What Progress Looks Like
 
 ### Running my first 'Action'
